@@ -7,7 +7,7 @@ Inspirado en la estética de los restaurantes tradicionales europeos, combina **
 
 ## 🖼️ Vista Previa  
 
-![Restaurante Clásico Hero] (https://i.ibb.co/nq98yfHz/mrnuformal.png)
+![Restaurante Clásico Hero](https://i.ibb.co/nq98yfHz/mrnuformal.png)
 
 ---
 
